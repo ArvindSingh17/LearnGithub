@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    /* height: 600px; */
+
+}
+
+.main{
+    width: 55vw;
+    height: 110vh;
+    background-color: white;
+}
+.navbar{
+    width: 100wv;
+    height: 100px;
+    border: 2px solid black;
+}
+.logo{
+    border: 2px solid blue;
+    width: 50%;
+    height: 80px;
+    background-image: url("https://w7.pngwing.com/pngs/587/646/png-transparent-swiggy-hd-logo.png");
+    background-size: 200px;
+    
+
+    background-repeat: no-repeat;
+}
